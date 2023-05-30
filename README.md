@@ -1,4 +1,4 @@
-# How to build the project
+# How to run the test in the project
 
 ### `npm install`
 
